@@ -99,7 +99,6 @@ void die();
 int sensor();
 void maze_print_none();
 
-//정욱
 int en_jud(int a, int b);
 void tr();
 void tl();
@@ -111,7 +110,6 @@ void shoot();
 int next_cell(int e, int c, int d);
 void st_course();
 
-//가영
 void bypass();
 int pit_goal(int e, int c, int d);
 int isit_next(int a, int b, int c, int d);
