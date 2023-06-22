@@ -45,5 +45,14 @@ For building and running the applicaion you need:
 
 <br/>
 
-## 🎞 DEMO
-![MusicPlayer](https://github.com/Ga-000/MusicPlayer/assets/134590236/9ab2a938-f9d9-4cb9-b175-918370d726c4)
+## 🎞 DEMO!
+![미로1](https://github.com/Ga-000/WumpusWorld/assets/134590236/be965289-6323-4a0f-8898-0a4fd3c487d6)
+![미로2](https://github.com/Ga-000/WumpusWorld/assets/134590236/fb80a397-5367-4282-b888-cb848d991e01)
+![미로3](https://github.com/Ga-000/WumpusWorld/assets/134590236/3282bedb-6e2b-4f01-8e7a-b31cba0f4d24)
+
+
+
+
+
+
+
