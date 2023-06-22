@@ -1,7 +1,7 @@
 # 🏁 Wumpus World 🏁
 This is a **Wumpus World** in which an agent passes through a maze to avoid obstacles to pick up gold himself.
 
-* 에이전트가 장애물을 피해 미로를 탐색하면서 통과하다가 금을 발견하면 원점으로 되돌아오면 미션 성공
+* 에이전트가 장애물을 피해 미로를 탐색하다가 금을 발견하고 원점으로 되돌아올 경우, 미션 성공
 * 에이전트가 장애물을 만나 죽을 경우, 원점으로 돌아오면서 미션 실패
 * 게임 시작 시, 랜덤으로 미로 생성
 * 에이전트의 시작위치는 좌측하단 고정
@@ -27,7 +27,7 @@ For building and running the applicaion you need:
       {"[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]"}
   };
   ```
-  
+
   
 * 미로 표기 기호  
 
@@ -42,15 +42,6 @@ For building and running the applicaion you need:
 |`p`|웅덩이 위치|int p = 32|
 |`b`|바람 위치|int breeze = 16|
 |`s`|움푸스 비명이 들리는 위치|int stench = 8|
-
-<br/>
-
-## 📁 Code Package
-* musicPlay 패키지
-  > * main.java 
-  > * main.css  :  화면 디자인 CSS
-	> * musicPlay.fxml  :  음악 재생 창 구현
-	> * MusicPlayController.java  :  음악 재생 controller
 
 <br/>
 
