@@ -22,24 +22,19 @@ For building and running the applicaion you need:
       {"[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]"}
   };
   ```
-  * `[ ]` : 가장자리 벽
-  * `U` : 공개되지 않은 미로
-  * `>` : Agent의 현재 위치
-  * `-` : Agent가 탐색하고 지나간 자리
+* 미로 표시 기호   
+|표기기호|내용|CPP 코드 내 변수값|
+|:---:|:---:|:---:|
+|`>`|Agent의 현재 위치|int current_state = 512|
+|`U`|공개되지 않은 미로|중앙정렬|
+|`-`|Agent가 탐색하고 지나간 자리|int passed = 256|
+|`[ ]`|미로의 가장자리 벽|int wall = 4|
+|`g`|금 위치|int g = 128|
+|`w`|움푸스 위치|int w = 64|
+|`p`|웅덩이 위치|int p = 32|
+|`b`|바람 위치|int breeze = 16|
+|`s`|움푸스 비명이 들리는 위치|int stench = 8|
 
-
-## 🎮 Functions
-* Music Playback Window
-	* Music play button
-		* The first click changes the playback bar's time from 0:00 to the total playback time of each music
-		* The second click, play music!!
-	* Like button
-		* Click 'Heart' on the music they like
-	* Add button
-		* Add/Delete the music by clicking '+'
-* Progress bar
-	* Progress bar showing when music is played
-	* Move to the desired music playback location
 
 <br/>
 
