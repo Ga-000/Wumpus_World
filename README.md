@@ -1,6 +1,8 @@
 # 🏁 Wumpus World 🏁
 This is a **Wumpus World** in which an agent passes through a maze to avoid obstacles to pick up gold himself.
 
+You can access this link <https://ga-000.github.io/Wumpus_World/>
+
 * 에이전트가 장애물을 피해 미로를 탐색하다가 금을 발견하고 원점으로 되돌아올 경우, 미션 성공
 * 에이전트가 장애물을 만나 죽을 경우, 원점으로 돌아오면서 미션 실패
 * 게임 시작 시, 랜덤으로 미로 생성
@@ -13,6 +15,7 @@ For building and running the applicaion you need:
 * `Visual Studio 2019`
   * C++
 
+![미로1](./README_img/슬라이드1.png)
 <br/>
 
 ## 🎮 기능
@@ -27,7 +30,9 @@ For building and running the applicaion you need:
       {"[ ]", "[ ]", "[ ]", "[ ]", "[ ]", "[ ]"}
   };
   ```
-
+![미로2](./README_img/슬라이드2.png)
+![미로3](./README_img/슬라이드3.png)
+![미로4](./README_img/슬라이드4.png)
   
 * 미로 표기 기호  
 
@@ -46,10 +51,10 @@ For building and running the applicaion you need:
 <br/>
 
 ## 🎞 DEMO!
-![미로1](./README_img/미로1.png)
-![미로2](./README_img/미로2.png)
-![미로3](./README_img/미로3.png)
-
+![미로5](./README_img/슬라이드5.png)
+![미로6](./README_img/슬라이드6.png)
+![미로7](./README_img/슬라이드7.png)
+![미로8](./README_img/슬라이드8.png)
 
 
 
